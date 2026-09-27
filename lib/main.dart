@@ -3,7 +3,8 @@
 // 🏛️ Block 1: Imports and Data Architecture (Ornament Model)
 //This defines the structural blueprint for your data objects, including your new parameters: 
 //purity carats and BIS certification tags.
-
+// programmer: Manoj
+// Date: 7th jan
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
